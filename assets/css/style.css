@@ -1,0 +1,68 @@
+.all {
+	color: white;
+	font-family: 'Keania One', cursive;
+}
+.container-fluid {
+	background-image:url(../images/mine.jpg);
+	background-size: cover;
+}
+
+#paragraph {
+	background-color: black;
+	margin-bottom: 20px;
+	margin-top: 15px;
+	font-size: 16pt;
+	padding: 25px;
+	
+	
+}
+
+h1 {
+	text-align: center;
+	padding: 15px;
+
+}
+
+#header {
+	background-color: black;
+
+
+}
+
+#ranNum {
+	background-color: blue;
+	padding: 25px;
+	text-align: center;
+	margin-bottom: 20px;
+	font-size: 27pt;
+}
+
+#score {
+	font-size: 12pt;
+	padding: 4px;
+	background-color: red;
+	margin-bottom: 20px;
+
+}
+#totalScore {
+	padding: 20px;
+	background-color: black;
+	margin-bottom: 20px;
+	font-size: 12pt;
+
+}
+#score p {
+	margin-left: 20px;
+}
+
+.d1 {
+	padding-right: 10px;
+	color: lightblue;
+	
+}
+
+.d2 {
+	color: red;
+	padding-left: 10px;
+}
+
